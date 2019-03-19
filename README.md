@@ -1,0 +1,2 @@
+# GoSandbox
+Sandbox for go
